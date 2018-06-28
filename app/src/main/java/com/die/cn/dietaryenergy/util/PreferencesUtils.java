@@ -6,7 +6,6 @@ import android.content.SharedPreferences;
 /**
  * {此处填写描述信息}
  * Created by huangchaobo on 2018/1/25 14.
- * 邮箱：huangchaobo@miao.cn
  */
 
 public class PreferencesUtils {

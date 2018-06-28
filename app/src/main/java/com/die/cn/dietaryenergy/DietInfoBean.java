@@ -3,7 +3,6 @@ package com.die.cn.dietaryenergy;
 /**
  * {食物相关bean}
  * Created by huangchaobo on 2018/1/25 13.
- * 邮箱：huangchaobo@miao.cn
  */
 
 public class DietInfoBean {

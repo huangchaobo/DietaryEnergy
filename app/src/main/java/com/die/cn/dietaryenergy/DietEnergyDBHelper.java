@@ -7,7 +7,6 @@ import android.database.sqlite.SQLiteOpenHelper;
 /**
  * {数据库操作类}
  * Created by huangchaobo on 2018/1/25 14.
- * 邮箱：huangchaobo@miao.cn
  */
 
 public class DietEnergyDBHelper extends SQLiteOpenHelper {

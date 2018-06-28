@@ -8,7 +8,6 @@ import android.widget.Toast;
 /**
  * {此处填写描述信息}
  * Created by huangchaobo on 2018/1/25 15.
- * 邮箱：huangchaobo@miao.cn
  */
 
 public class AssetsFileAsynTask extends AsyncTask<Void, Void, Void> {
